@@ -1,5 +1,7 @@
 # Production-Ready Product Development Skill
 
+English | [简体中文](README.zh-CN.md)
+
 An agent skill for turning demos, prototypes, PRDs, early feature ideas, and existing codebases into production-ready product development plans.
 
 It helps Codex and other coding agents avoid stopping at demo quality by checking product workflow, release level, risk level, roles, permissions, page states, data models, API contracts, security, testing, deployment, operations, and acceptance criteria.
@@ -18,6 +20,8 @@ It helps Codex and other coding agents avoid stopping at demo quality by checkin
 
 ```text
 production-ready-product-development/
+|-- README.md
+|-- README.zh-CN.md
 |-- SKILL.md
 |-- agents/
 |   `-- openai.yaml
