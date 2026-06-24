@@ -1,0 +1,4 @@
+interface:
+  display_name: "Production-Ready Product Development"
+  short_description: "Turn demos into production-ready product plans."
+  default_prompt: "Use $production-ready-product-development to assess a demo, prototype, PRD, feature request, or codebase for production readiness."
