@@ -2,6 +2,12 @@
 
 English | [简体中文](README.zh-CN.md)
 
+![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827)
+![Agent Workflow](https://img.shields.io/badge/Agent-Workflow-2563eb)
+![Production Ready](https://img.shields.io/badge/Production-Ready-16a34a)
+![Docs](https://img.shields.io/badge/Docs-English%20%7C%20Chinese-f97316)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 An agent skill for turning demos, prototypes, PRDs, early feature ideas, and existing codebases into production-ready product development plans.
 
 It helps Codex and other coding agents avoid stopping at demo quality by checking product workflow, release level, risk level, roles, permissions, page states, data models, API contracts, security, testing, deployment, operations, and acceptance criteria.
@@ -44,6 +50,27 @@ Use this skill when you want to:
 - Convert a PRD or prototype into implementation tasks.
 - Assess an admin system, SaaS app, dashboard, mini program, AI tool, or data system.
 - Generate a production-grade implementation prompt for another coding agent.
+
+## Suggested GitHub Topics
+
+Recommended repository topics:
+
+```text
+codex-skill
+agent-skills
+ai-agents
+production-ready
+product-development
+software-engineering
+prd
+qa
+devops
+launch-readiness
+mvp
+saas
+ai-tools
+llm
+```
 
 ## Example Prompts
 

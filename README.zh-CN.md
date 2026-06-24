@@ -2,6 +2,12 @@
 
 [English](README.md) | 简体中文
 
+![Codex Skill](https://img.shields.io/badge/Codex-Skill-111827)
+![Agent Workflow](https://img.shields.io/badge/Agent-Workflow-2563eb)
+![Production Ready](https://img.shields.io/badge/Production-Ready-16a34a)
+![Docs](https://img.shields.io/badge/Docs-English%20%7C%20Chinese-f97316)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 这是一个面向 Codex 和其他 Agent 工作流的产品工程 Skill，用来把 demo、原型、PRD、早期功能想法和已有代码库，整理成可上线、可测试、可维护的产品开发方案。
 
 它的目标不是让 AI 只做出“能跑一次”的 demo，而是帮助 AI 按真实产品标准检查产品流程、发布等级、风险等级、用户角色、权限、页面状态、数据模型、API 契约、安全、测试、部署、运维和验收标准。
@@ -44,6 +50,27 @@ production-ready-product-development/
 - 把 PRD 或原型转成可执行的开发任务。
 - 评估后台系统、SaaS、数据大屏、小程序、AI 工具或数据系统。
 - 为另一个编码 Agent 生成生产级实施提示词。
+
+## 推荐 GitHub Topics
+
+建议在 GitHub 仓库右侧 About 区域添加这些 Topics：
+
+```text
+codex-skill
+agent-skills
+ai-agents
+production-ready
+product-development
+software-engineering
+prd
+qa
+devops
+launch-readiness
+mvp
+saas
+ai-tools
+llm
+```
 
 ## 示例提示词
 
